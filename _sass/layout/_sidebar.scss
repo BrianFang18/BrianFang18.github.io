@@ -144,8 +144,6 @@
   display: table-cell;
   vertical-align: top;
   width: 36px;
-  // set width only, for non-square avatars
-  // height: 36px;
 
   @include breakpoint($large) {
     display: block;
@@ -154,12 +152,13 @@
   }
 
   img {
-    max-width: 175px;
-    border-radius: 50%;
+    max-width: 168px;
+    border-radius: 8px;           // soft square — more academic than a circle
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
 
     @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid var(--global-border-color);
+      padding: 0;
+      border: 0;
     }
   }
 }

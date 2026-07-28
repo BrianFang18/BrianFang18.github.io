@@ -5,7 +5,7 @@
 .page__footer {
   @include clearfix;
   background-color: var(--global-footer-bg-color);
-  color: var(--global-text-color-light);
+  color: #B0B0B8;
 
   float: left;
   margin-left: 0;
@@ -31,9 +31,9 @@
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 1em;
+    margin-top: 0.75em;
     max-width: 100%;
-    padding: 0 1em 1em;
+    padding: 0 1em 0.75em;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -41,11 +41,15 @@
   }
 
   a {
-    color: inherit;
+    color: #CCC;
     text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: border-color 0.15s ease;
 
     &:hover {
-      text-decoration: underline;
+      color: #FFF;
+      border-bottom-color: #CCC;
+      text-decoration: none;
     }
   }
 

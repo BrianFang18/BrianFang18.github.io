@@ -1,37 +1,41 @@
 /* ==========================================================================
-    AIR THEME - LIGHT VERSION
+    AIR THEME - LIGHT VERSION — "Gray Matter"
+    A restrained, research-grade palette for biomedical computing.
     ========================================================================== */
 
 /* Color codes used for the theme */
-$primary-color              : #0092ca;
-$dark-primary-color         : mix(#000, $primary-color, 40%);
-$darker-primary-color       : mix(#000, $primary-color, 60%);
-$light-primary-color        : mix(#000, $primary-color, 50%);
+$primary-color              : #1E5A8A;   // Academic blue — deep, credible, not flashy
+$dark-primary-color         : mix(#000, $primary-color, 35%);
+$darker-primary-color       : mix(#000, $primary-color, 55%);
+$light-primary-color        : mix(#fff, $primary-color, 40%);
 
-$background                 : #eeeeee;
-$background-light           : mix(#fff, $background, 20%);
-$background-lighter         : mix(#fff, $background, 90%);
-$text                       : #222831;
-$link                       : #393e46;
-$link-dark                  : mix(#000, $link, 25%);
-$link-light                 : mix(#fff, $link, 25%);
-$footer                     : $primary-color;
+$background                 : #FCFCFB;   // Warm white — softer than pure #fff
+$background-light           : mix(#fff, $background, 5%);
+$background-lighter         : #F5F3F1;   // Surface / card tint
+$text                       : #1D1D1F;   // Warm near-black for reading comfort
+$link                       : #1E5A8A;   // Matches primary
+$link-dark                  : mix(#000, $link, 30%);
+$link-light                 : mix(#fff, $link, 20%);
+$footer                     : #1D1D1F;   // Dark footer for contrast
+
+/* Accent — biomedical warmth */
+$accent-warm                : #C44F34;   // Used sparingly for emphasis markers
 
 /* Color codes used for the site */
-$danger-color               : #ee5f5b;
+$danger-color               : #C44F34;
 $info-color                 : #2f7f93;
 $notice-color               : #7a8288;
-$success-color              : #62c462;
-$warning-color              : #f89406;
+$success-color              : #4B8B5E;
+$warning-color              : #D48C2C;
 
 /* Other basic settings for the template */
-$border-radius              : 4px;
-$box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
+$border-radius              : 3px;
+$box-shadow                 : 0 1px 3px rgba(0, 0, 0, 0.06);
 $global-transition          : all 0.2s ease-in-out;
-$masthead-height            : 70px;
-$navicon-width              : 28px;
-$navicon-height             : 4px;
-$sidebar-link-max-width     : 250px;
+$masthead-height            : 64px;
+$navicon-width              : 24px;
+$navicon-height             : 3px;
+$sidebar-link-max-width     : 240px;
 $sidebar-screen-min-width   : 1024px;
 
 /* Light theme for the site */
@@ -39,17 +43,18 @@ $sidebar-screen-min-width   : 1024px;
     --global-base-color                 : #{$primary-color};
     --global-bg-color                   : #{$background};
     --global-footer-bg-color            : #{$footer};
-    --global-border-color               : #{$light-primary-color};
-    --global-dark-border-color          : #{$background-light};
-    --global-code-background-color      : #fafafa;
-    --global-code-text-color            : #{$darker-primary-color};
-    --global-fig-caption-color          : #{$light-primary-color};
+    --global-border-color               : #E7E5E2;
+    --global-dark-border-color          : #D4D2CE;
+    --global-code-background-color      : #F5F3F1;
+    --global-code-text-color            : #1D1D1F;
+    --global-fig-caption-color          : #6B6B78;
     --global-link-color                 : #{$link};
     --global-link-color-hover           : #{$link-dark};
     --global-link-color-visited         : #{$link-light};
-    --global-masthead-link-color        : #{$text};
-    --global-masthead-link-color-hover  : #{$primary-color};
+    --global-masthead-link-color        : #6B6B78;
+    --global-masthead-link-color-hover  : #{$text};
     --global-text-color                 : #{$text};
-    --global-text-color-light           : #{$light-primary-color};
+    --global-text-color-light           : #6B6B78;
     --global-thead-color                : #{$background-lighter};
+    --global-accent-warm                : #{$accent-warm};
 }
