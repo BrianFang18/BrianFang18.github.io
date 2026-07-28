@@ -7,11 +7,9 @@ author_profile: true
 ## Biography
 {: #biography}
 
-I am a second-year Master's student in Biomedical Engineering at the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) (UESTC), advised by Prof. Rong Li and Prof. Huafu Chen. Before that, I received my B.Eng. in Communications Engineering from Chengdu University of Information Technology (CUIT) in 2024, ranking top 1% in my cohort.
+I am a second-year Master's student in Biomedical Engineering at the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) (UESTC), advised by Prof. Rong Li and Prof. Huafu Chen. Before that, I received my B.Eng. in Communications Engineering from Chengdu University of Information Technology (CUIT) in 2024, ranking top 1% in my cohort. I also serve as class monitor, Youth League branch secretary, and Organization Department head of the College Party Affairs Center.
 
-My research interests lie at the intersection of **graph neural networks**, **brain imaging analysis**, and **LLM-based autonomous agents**. I am particularly interested in building AI systems that bridge structured biomedical knowledge (brain networks, knowledge graphs) with modern foundation model capabilities.
-
-I am currently completing an AI engineering internship at **Lenovo** (Solutions & Services Group), where I develop LLM-based intent recognition models for automated anomaly detection in global channel sales data.
+My research interests lie at the intersection of **graph neural networks**, **brain imaging analysis**, and **LLM-based autonomous agents**. I have published in *Pattern Recognition* and have papers under review at top-tier venues. I also have hands-on experience building LLM agent systems through internships at **Huawei** (mobile AI assistant with RL optimization) and **Lenovo** (LLM-based intent recognition). With a cross-disciplinary background spanning communications engineering and biomedical engineering, I bring a full-stack perspective from signal processing to AI deployment.
 
 <a href="/files/FANG_Zhi_CV.pdf" class="btn btn--primary" target="_blank" style="text-decoration:none;">📄 Download CV (PDF)</a>
 
@@ -23,7 +21,8 @@ I am currently completing an AI engineering internship at **Lenovo** (Solutions 
 <details open>
 <summary><strong>2026</strong></summary>
 
-- **Jul 2026** — Started AI engineering internship at Lenovo, working on LLM-based intent recognition
+- **Jul 2026** — Started AI engineering internship at Lenovo (LLM-based intent recognition)
+- **Jun 2026** — Awarded Outstanding Postgraduate Student and Outstanding CPC Member, UESTC
 - **May 2026** — Paper accepted at *Pattern Recognition* (co-first author)
 - **Apr 2026** — Presented MSD-Net at the 2026 Chinese Intelligent Health & Bioinformatics Conference
 - **Mar 2026** — Completed Agentic RAG system for epilepsy clinical consultation
@@ -34,9 +33,9 @@ I am currently completing an AI engineering internship at **Lenovo** (Solutions 
 <summary><strong>2025</strong></summary>
 
 - **Dec 2025** — Presented MSD-Net at ISICDM 2025
-- **Nov 2025** — Awarded Outstanding Postgraduate Student, UESTC
-- **Nov 2025** — Completed Mobile Agent project (LLM-based multi-step autonomous decision-making)
-- **Oct 2025** — First Prize, Research English Speech Contest for Chinese College Students (National)
+- **Sep 2025** — Completed Huawei internship — Mobile Agent RL optimization project
+- **Aug 2025** — First Prize, UESTC Research English Speech Contest (Graduate Division)
+- **May 2025** — Started algorithm internship at Huawei Technologies (mobile AI assistant)
 
 </details>
 
@@ -51,7 +50,7 @@ I am currently completing an AI engineering internship at **Lenovo** (Solutions 
 
 2. **Fang, Z.**, Chen, H.\*, Huang, W.\*, Li, R.\*<br>
    *Multi-Scale Feature Fusion Networks for Identifying Abnormal Brain Networks.*<br>
-   Under review by **IEEE TNNLS**.
+   Under review by **Medical Image Analysis** (SCI Q1, IF 9.8). Patent filed (CN 2025115041286).
 
 3. Han, H.<sup>†</sup>, Liu, Q.<sup>†</sup>, Sun, X., **Fang, Z.**, Li, R.\*<br>
    *Ablation Surgery Modulates a Common Functional Network in Focal Epilepsy: Disconnection, Recovery and Reorganization.*<br>
@@ -82,21 +81,40 @@ I am currently completing an AI engineering internship at **Lenovo** (Solutions 
   - Built LLM-based intent recognition models for automated text and email anomaly detection
   - Delivered full development-to-production lifecycle from prototyping through deployment and release
 
+- **Huawei Technologies** — *Algorithm Intern (Reinforcement Learning)*, May 2025 – Sep 2025
+  - Core developer for mobile AI assistant RL optimization — enabling end-to-end autonomous task completion in e-commerce apps
+  - Built SFT instruction tuning dataset based on Qwen3-8B for UI DOM tree parsing; designed MLP-based Progress Reward Model (PRM) for step-wise reward back-propagation
+  - Implemented environment Grounding Reward mechanism for real-time hallucination interception; built Step-level PPO RL pipeline with dual reward attribution
+  - Task success rate improved from 82% to 90%, interaction time reduced by 28%, human takeover rate reduced to < 8%
+
 - **The Clinical Hospital of Chengdu Brain Science Institute** — *MRI Machine Operator Intern*, Apr 2025 – Apr 2026
   - Coordinated 3.0T MRI and 64-channel EEG synchronous acquisition for task-driven multimodal datasets
   - Performed motion correction, denoising, and functional connectivity preprocessing
 
+- **China Telecom**, Qingdao High-Tech Zone Branch — *Product Manager Intern*, Jul 2022 – Aug 2022
+  - Assisted with CAD drafting and document protocol preparation for IoT and digital twin business
+
 ### Research Projects
 
-- **MSTGCN** (Core Member, Dec 2024 – Apr 2026) — Multi-hop spatio-temporal GCN for brain disorder diagnosis and prognosis. Funded by Chinese Brain Project. Accepted at *Pattern Recognition*.
+- **MSTGCN** (Core Member, Jul 2025 – Mar 2026) — Multi-hop spatio-temporal GCN for brain disorder diagnosis and prognosis. Funded by Chinese Brain Project (Grant No. 2022ZD0208903). Accepted at *Pattern Recognition*.
 
-- **MSD-Net** (Team Leader, Dec 2025 – Present) — Multi-scale static-dynamic fusion network for abnormal brain network identification. Funded by NSFC. Under review at *IEEE TNNLS*.
+- **MSD-Net** (Team Leader, Oct 2025 – Apr 2026) — Multi-scale static-dynamic fusion network for abnormal brain network identification. Funded by NSFC (Grant No. 82372085, 62333003). Under review at *Medical Image Analysis*. Patent filed.
 
 - **K-MIND** (Team Leader, May 2026 – Present) — Knowledge-guided multimodal interaction network for brain disorders. Funded by NSFC. Manuscript in preparation.
 
-- **Mobile Agent** (Independent Researcher, Oct 2025 – Feb 2026) — LLM-based multi-step autonomous decision-making system with step-level PPO reinforcement learning.
+- **Agentic RAG for Epilepsy Consultation** (Team Leader, Jan 2026 – Mar 2026) — Intelligent retrieval and QA system with BGE-M3 hybrid retrieval, Multi-Query rewriting, and LangGraph StateGraph orchestration. 300+ publications and 2,000+ clinical assessment items integrated.
 
-- **Agentic RAG** (Independent Researcher, Mar 2026 – May 2026) — Intelligent epilepsy consultation and retrieval system with LangGraph orchestration.
+### Undergraduate Projects
+
+- **AI-Based Dermatological Diagnosis System** (C4AI Competition, Jun 2022 – Nov 2022) — WeChat mini-program with ResNet50-based skin disease classification. National Third Prize.
+
+- **Multi-modal Data Acquisition System for Smart Healthcare** (5G+IoT Competition, May 2022 – Oct 2022) — YOLOv5/PaddleDetection-based system with CTWing platform integration. National Third Prize.
+
+### Student Leadership
+
+- **Class Monitor & Youth League Branch Secretary**, UESTC (2024 – Present)
+- **Organization Department Head**, College Party Affairs Center, UESTC (2024 – Present)
+- **Class Monitor**, CUIT (2020 – 2024) — Led class to win top honors; awarded "Youth Role Model" (University's highest student honor) and "Top 10 Class Monitors"
 
 ---
 
@@ -105,8 +123,9 @@ I am currently completing an AI engineering internship at **Lenovo** (Solutions 
 
 - **2026 Chinese Intelligent Health & Bioinformatics Conference** — Oral presentation of MSD-Net (Apr 2026)
 - **2025 International Symposium on Image Computing and Digital Medicine (ISICDM)** — Poster presentation of MSD-Net (Dec 2025)
-- **Research English Speech Contest for Chinese College Students** — National First Prize (Oct 2025)
-- **International College Students' Innovation Competition** — Provincial Second Prize (2025)
+- **Eighth National College Students 5-Minute Research English Speech Contest** — National First Prize (2025)
+- **UESTC Eighth Research English Speech Contest** — Graduate Division First Prize (2025)
+- **"建行杯" Sichuan International College Students' Innovation Competition (2024)** — Provincial Second Prize (2025)
 
 ---
 
@@ -121,24 +140,41 @@ I am currently completing an AI engineering internship at **Lenovo** (Solutions 
 | Suzhou Industrial Park Special Scholarship | UESTC | 2025 |
 | First-Class Academic Scholarship (Top 5%) | CUIT | 2021, 2022, 2023 |
 
-### Honors
+### Graduate Honors
 
 | Award | Year |
 |-------|------|
-| Outstanding Postgraduate Student (优秀研究生) | 2025 |
-| Outstanding Undergraduate Graduate, Sichuan Province (四川省优秀毕业生) | 2024 |
-| Outstanding Undergraduate Graduate, CUIT (校优秀毕业生) | 2024 |
-| Academic Rising Star (学术青苗) | 2025 |
+| Outstanding Postgraduate Student (优秀研究生) | 2026 |
+| Outstanding CPC Member (优秀党员) | 2026 |
+| Academic Rising Star (学术青苗) | 2026 |
+
+### Undergraduate Honors
+
+| Award | Year |
+|-------|------|
+| Outstanding Graduate, Sichuan Province (四川省优秀毕业生) | 2024 |
+| Outstanding Graduate, CUIT (校优秀毕业生) | 2024 |
+| "Youth Role Model" — CUIT's Highest Student Honor (青春榜样·十佳班长) | 2024 |
+| "Tianyu Weishi" Communication Star — College Highest Honor (通信之星) | 2024 |
+| Outstanding Student Leader (校优秀学生干部) | 2021, 2022, 2023 |
+| Merit Student (校三好学生) | 2021, 2022, 2023 |
 
 ### Competitions
 
 | Award | Competition | Year |
 |-------|-------------|------|
-| National First Prize | Research English Speech Contest for Chinese College Students (全国大学生科研英语演讲) | 2025 |
-| Provincial Second Prize | International College Students' Innovation Competition (四川省国际大学生创新大赛) | 2025 |
-| First Prize (Four Provinces) | National College Students Mathematical Modeling Competition (全国大学生数学建模竞赛) | 2022 |
+| National First Prize | 5-Minute Research English Speech Contest (全国大学生科研英语演讲) | 2025 |
+| School First Prize | UESTC Research English Speech Contest (研究生组) | 2025 |
+| Provincial Second Prize | Sichuan International College Students' Innovation Competition (四川省国际大学生创新大赛) | 2025 |
 | National Third Prize | China University Computer Competition — AI Innovation Contest (C4AI 智慧医疗赛道) | 2022 |
-| Second Prize | Asia and Pacific Mathematical Contest in Modeling (亚太数学建模) | 2021, 2022 |
+| National Third Prize | 5G + CTWing IoT Developer Competition (全国5G+天翼物联开发者大赛) | 2022 |
+| Provincial First Prize | National College Students Mathematical Modeling Competition (全国大学生数学建模竞赛) | 2022 |
+| Provincial Second Prize | Sichuan College Students Communications Network Construction Competition (四川省大学生通信全网建设技术竞赛) | 2022 |
+| Second Prize | Asia and Pacific Mathematical Contest in Modeling (亚太地区数学建模) | 2021, 2022 |
+| Second Prize | National English Competition for College Students (全国大学生英语能力竞赛) | 2021, 2022 |
+| Second Prize | May Day Mathematical Modeling Competition (五一数学建模竞赛) | 2021, 2022 |
+| School First Prize | 21st Century English Speech Contest (21世纪杯英语演讲比赛) | 2022 |
+| School First Prize | FLTRP · Guocai Cup English Speech Contest (外研社·国才杯英语演讲比赛) | 2022 |
 
 ---
 
