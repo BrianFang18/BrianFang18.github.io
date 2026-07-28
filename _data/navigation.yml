@@ -4,6 +4,12 @@ main:
   - title: "Home"
     url: /
 
+  - title: "Experience"
+    url: /#experience
+
+  - title: "Honors"
+    url: /#honors
+
   - title: "Publications"
     url: /publications/
 
