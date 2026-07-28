@@ -9,7 +9,7 @@ author_profile: true
 
 I am a second-year Master's student in Biomedical Engineering at the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) (UESTC), advised by Prof. Rong Li and Prof. Huafu Chen. Before that, I received my B.Eng. in Communications Engineering from Chengdu University of Information Technology (CUIT) in 2024, ranking top 1% in my cohort. I also serve as class monitor, Youth League branch secretary, and Organization Department head of the College Party Affairs Center.
 
-My research interests lie at the intersection of **graph neural networks**, **brain imaging analysis**, and **LLM-based autonomous agents**. I have published in *Pattern Recognition* and have papers under review at top-tier venues. I also have hands-on experience building LLM agent systems through internships at **Huawei** (mobile AI assistant with RL optimization) and **Lenovo** (LLM-based intent recognition). With a cross-disciplinary background spanning communications engineering and biomedical engineering, I bring a full-stack perspective from signal processing to AI deployment.
+My research interests lie at the intersection of **graph neural networks**, **brain imaging analysis**, and **LLM-based autonomous agents**. I have published in *Pattern Recognition* and have papers under review at top-tier venues. I also have hands-on experience building LLM agent systems as an independent researcher (Mobile Agent with PPO reinforcement learning, Agentic RAG for clinical consultation) and through an AI engineering internship at **Lenovo** (LLM-based intent recognition). With a cross-disciplinary background spanning communications engineering and biomedical engineering, I bring a full-stack perspective from signal processing to AI deployment.
 
 <a href="/files/FANG_Zhi_CV.pdf" class="btn btn--primary" target="_blank" style="text-decoration:none;">📄 Download CV (PDF)</a>
 
@@ -33,9 +33,9 @@ My research interests lie at the intersection of **graph neural networks**, **br
 <summary><strong>2025</strong></summary>
 
 - **Dec 2025** — Presented MSD-Net at ISICDM 2025
-- **Sep 2025** — Completed Huawei internship — Mobile Agent RL optimization project
-- **Aug 2025** — First Prize, UESTC Research English Speech Contest (Graduate Division)
-- **May 2025** — Started algorithm internship at Huawei Technologies (mobile AI assistant)
+- **Nov 2025** — Received Outstanding Postgraduate Student, UESTC
+- **Oct 2025** — First Prize, National Research English Speech Contest; First Prize, UESTC Division
+- **Oct 2025** — Started Mobile Agent project (LLM-based autonomous decision-making)
 
 </details>
 
@@ -50,7 +50,7 @@ My research interests lie at the intersection of **graph neural networks**, **br
 
 2. **Fang, Z.**, Chen, H.\*, Huang, W.\*, Li, R.\*<br>
    *Multi-Scale Feature Fusion Networks for Identifying Abnormal Brain Networks.*<br>
-   Under review by **Medical Image Analysis** (SCI Q1, IF 9.8). Patent filed (CN 2025115041286).
+   Under review by **IEEE TNNLS**.
 
 3. Han, H.<sup>†</sup>, Liu, Q.<sup>†</sup>, Sun, X., **Fang, Z.**, Li, R.\*<br>
    *Ablation Surgery Modulates a Common Functional Network in Focal Epilepsy: Disconnection, Recovery and Reorganization.*<br>
@@ -81,12 +81,6 @@ My research interests lie at the intersection of **graph neural networks**, **br
   - Built LLM-based intent recognition models for automated text and email anomaly detection
   - Delivered full development-to-production lifecycle from prototyping through deployment and release
 
-- **Huawei Technologies** — *Algorithm Intern (Reinforcement Learning)*, May 2025 – Sep 2025
-  - Core developer for mobile AI assistant RL optimization — enabling end-to-end autonomous task completion in e-commerce apps
-  - Built SFT instruction tuning dataset based on Qwen3-8B for UI DOM tree parsing; designed MLP-based Progress Reward Model (PRM) for step-wise reward back-propagation
-  - Implemented environment Grounding Reward mechanism for real-time hallucination interception; built Step-level PPO RL pipeline with dual reward attribution
-  - Task success rate improved from 82% to 90%, interaction time reduced by 28%, human takeover rate reduced to < 8%
-
 - **The Clinical Hospital of Chengdu Brain Science Institute** — *MRI Machine Operator Intern*, Apr 2025 – Apr 2026
   - Coordinated 3.0T MRI and 64-channel EEG synchronous acquisition for task-driven multimodal datasets
   - Performed motion correction, denoising, and functional connectivity preprocessing
@@ -96,13 +90,15 @@ My research interests lie at the intersection of **graph neural networks**, **br
 
 ### Research Projects
 
-- **MSTGCN** (Core Member, Jul 2025 – Mar 2026) — Multi-hop spatio-temporal GCN for brain disorder diagnosis and prognosis. Funded by Chinese Brain Project (Grant No. 2022ZD0208903). Accepted at *Pattern Recognition*.
+- **MSTGCN** (Co-first Author, Dec 2024 – Apr 2026) — Multi-hop spatio-temporal GCN for brain disorder diagnosis and prognosis. Funded by Chinese Brain Project (Grant No. 2022ZD0208903). Accepted at *Pattern Recognition*.
 
-- **MSD-Net** (Team Leader, Oct 2025 – Apr 2026) — Multi-scale static-dynamic fusion network for abnormal brain network identification. Funded by NSFC (Grant No. 82372085, 62333003). Under review at *Medical Image Analysis*. Patent filed.
+- **MSD-Net** (Team Leader, Dec 2025 – Present) — Multi-scale static-dynamic fusion network for abnormal brain network identification. Funded by NSFC (Grant No. 82372085, 62333003). Under review at *IEEE TNNLS*.
 
 - **K-MIND** (Team Leader, May 2026 – Present) — Knowledge-guided multimodal interaction network for brain disorders. Funded by NSFC. Manuscript in preparation.
 
-- **Agentic RAG for Epilepsy Consultation** (Team Leader, Jan 2026 – Mar 2026) — Intelligent retrieval and QA system with BGE-M3 hybrid retrieval, Multi-Query rewriting, and LangGraph StateGraph orchestration. 300+ publications and 2,000+ clinical assessment items integrated.
+- **Mobile Agent** (Independent Researcher, Oct 2025 – Feb 2026) — LLM-based multi-step autonomous decision-making system with step-level PPO reinforcement learning and Progress Reward Model.
+
+- **Agentic RAG** (Independent Researcher, Mar 2026 – May 2026) — Intelligent epilepsy consultation and retrieval system with BGE-M3 hybrid retrieval, Multi-Query rewriting, and LangGraph StateGraph orchestration.
 
 ### Undergraduate Projects
 
