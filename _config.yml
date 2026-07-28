@@ -13,9 +13,9 @@ title                    : "Zhi Fang"
 title_separator          : "-"
 name                     : &name "Zhi Fang"
 description              : &description "Master's Student in Biomedical Engineering at UESTC. Research: Graph Neural Networks, Brain Imaging, LLM Agents, Multimodal Learning."
-url                      : https://zhifang.github.io
+url                      : https://BrianFang18.github.io
 baseurl                  : ""
-repository               : "SingleTriangle/zhifang.github.io"
+repository               : "BrianFang18/BrianFang18.github.io"
 
 # Site Author
 author:
@@ -35,7 +35,7 @@ author:
   pubmed           : ""
 
   # Repositories and software development
-  github           : "SingleTriangle"
+  github           : "BrianFang18"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
