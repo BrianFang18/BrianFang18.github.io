@@ -427,7 +427,7 @@
 
   p, li {
     margin-bottom: 0.25em;
-    font-size: $type-size-6;
+    font-size: $type-size-5;
     line-height: 1.55;
   }
 
@@ -513,14 +513,14 @@
     }
 
     .pub-authors {
-      font-size: $type-size-6;
+      font-size: $type-size-5;
       color: var(--global-text-color-light);
       margin: 0.15em 0;
       line-height: 1.45;
     }
 
     .pub-venue {
-      font-size: $type-size-6;
+      font-size: $type-size-5;
       font-style: italic;
       color: var(--global-text-color-light);
       line-height: 1.4;
@@ -538,7 +538,7 @@
 
   li {
     margin-bottom: 0.35em;
-    font-size: $type-size-6;
+    font-size: $type-size-5;
     line-height: 1.55;
 
     strong {

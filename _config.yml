@@ -22,8 +22,8 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Zhi Fang / 方志"
-  pronouns         : "he/him"
-  bio              : "M.Eng. Student in Biomedical Engineering<br>University of Electronic Science and Technology of China (UESTC)<br>Research: Brain Graph Neural Networks, LLM Agents, Medical AI"
+  pronouns         : ""
+  bio              : "M.Eng. in Biomedical Engineering<br>UESTC, Chengdu<br><small>Brain Graph Neural Networks<br>LLM Agents &middot; Medical AI</small>"
   location         : "Chengdu, China"
   employer         : "UESTC"
   uri              : https://zhifang.github.io

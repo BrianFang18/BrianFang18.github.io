@@ -4,11 +4,17 @@ main:
   - title: "Home"
     url: /
 
-  - title: "Experience"
-    url: /#experience
+  - title: "News"
+    url: /#news
 
   - title: "Publications"
     url: /#publications
+
+  - title: "Experience"
+    url: /#experience
+
+  - title: "Activity"
+    url: /#activity
 
   - title: "Honors"
     url: /#honors
