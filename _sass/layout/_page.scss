@@ -460,12 +460,12 @@
 
   &.edu     { background: rgba(30,90,138,0.12);  color: #1E5A8A; }
   &.work    { background: rgba(196,79,52,0.1);    color: #C44F34; }
-  &.project { background: rgba(107,107,120,0.1);  color: #6B6B78; }
+  &.project { background: rgba(90,140,120,0.1);  color: #4A7C6B; }
 
   html[data-theme="dark"] & {
     &.edu     { background: rgba(91,155,213,0.15);  color: #7BB8E8; }
     &.work    { background: rgba(212,116,92,0.15);   color: #E09080; }
-    &.project { background: rgba(160,160,175,0.12); color: #AAAAB5; }
+    &.project { background: rgba(100,180,150,0.12); color: #7BC4A8; }
   }
 }
 
@@ -562,7 +562,7 @@
 .page__content ul.activity-list,
 .page__content ul.award-list {
   list-style: none;
-  padding-left: 0;
+  padding-left: 1.5em;
 
   li {
     margin-bottom: 0.7em;
@@ -576,14 +576,28 @@
   }
 }
 
-.page__content ul.award-list li {
-  margin-bottom: 0.5em;
-  strong {
-    font-family: $monospace;
-    font-size: $type-size-7;
-    font-weight: 600;
-    letter-spacing: 0.02em;
-    color: var(--global-accent-warm);
-    text-transform: uppercase;
+.page__content ul.award-list {
+  padding-left: 1.5em;
+
+  li {
+    position: relative;
+    margin-bottom: 0.55em;
+    padding-left: 0.8em;
+    border-left: 2px solid var(--global-border-color);
+    font-size: $type-size-5;
+    line-height: 1.5;
+
+    strong {
+      font-family: $global-font-family;
+      font-size: $type-size-6;
+      font-weight: 600;
+      letter-spacing: 0;
+      color: var(--global-accent-warm);
+      text-transform: none;
+    }
+
+    &:hover {
+      border-left-color: var(--global-accent-warm);
+    }
   }
 }
