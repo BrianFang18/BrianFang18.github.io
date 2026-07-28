@@ -20,7 +20,7 @@ repository               : "SingleTriangle/zhifang.github.io"
 # Site Author
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Zhi Fang / 方志"
   pronouns         : "he/him"
   bio              : "M.Eng. Student in Biomedical Engineering<br>University of Electronic Science and Technology of China (UESTC)<br>Research: Brain Graph Neural Networks, LLM Agents, Medical AI"
