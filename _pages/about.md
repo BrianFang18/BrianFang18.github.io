@@ -7,7 +7,7 @@ author_profile: true
 ## Biography
 {: #biography}
 
-I am a second-year Master's student in Biomedical Engineering at the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) (UESTC), advised by Prof. Rong Li and Prof. Huafu Chen. Before that, I received my B.Eng. in Communications Engineering from Chengdu University of Information Technology (CUIT) in 2024, ranking top 1% in my cohort.
+I am a second-year Master's student in Biomedical Engineering at the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) (UESTC), advised by Prof. Rong Li and Prof. Huafu Chen. Before that, I received my B.Eng. in Communications Engineering from [Chengdu University of Information Technology](https://www.cuit.edu.cn/) (CUIT) in 2024, ranking top 1% in my cohort.
 
 My research interests lie at the intersection of <strong>graph neural networks</strong>, <strong>brain imaging analysis</strong>, and <strong>LLM-based autonomous agents</strong>. I have published in <em>Pattern Recognition</em> and have papers under review at top-tier venues. I also have hands-on experience building LLM agent systems as an independent researcher (Mobile Agent with PPO reinforcement learning, Agentic RAG for clinical consultation) and through an AI engineering internship at <strong>Lenovo</strong> (LLM-based intent recognition).
 
@@ -20,7 +20,7 @@ My research interests lie at the intersection of <strong>graph neural networks</
 
 <ul class="news-list">
   <li><strong>[07/2026]</strong> Started AI engineering internship at Lenovo &mdash; LLM-based intent recognition for global channel sales data quality.</li>
-  <li><strong>[06/2026]</strong> Awarded Outstanding Postgraduate Student and Outstanding CPC Member, UESTC.</li>
+  <li><strong>[06/2026]</strong> Awarded Outstanding Postgraduate Student, UESTC.</li>
   <li><strong>[05/2026]</strong> Paper accepted at <em>Pattern Recognition</em> (co-first author).</li>
   <li><strong>[04/2026]</strong> Presented MSD-Net at the 2026 Chinese Intelligent Health &amp; Bioinformatics Conference.</li>
   <li><strong>[03/2026]</strong> Completed Agentic RAG system for epilepsy clinical consultation.</li>
@@ -39,24 +39,24 @@ My research interests lie at the intersection of <strong>graph neural networks</
 
 <ol class="pub-list">
   <li>
-    <span class="pub-title">Multi-hop spatio-temporal graph convolutional networks for brain disorder diagnosis and prognosis</span>
-    <span class="pub-authors">Liu, H.<sup>&dagger;</sup>, Zhang, J.<sup>&dagger;</sup>, <strong>Fang, Z.</strong><sup>&dagger;</sup>, Jiang, X.*, Huang, W.*, Li, R.*</span>
-    <span class="pub-venue"><em>Pattern Recognition</em> (SCI Q1, IF 7.6), 2026. <sup>&dagger;</sup>Co-first author.</span>
+    <div class="pub-title">Multi-hop spatio-temporal graph convolutional networks for brain disorder diagnosis and prognosis</div>
+    <div class="pub-authors">Liu, H.<sup>&dagger;</sup>, Zhang, J.<sup>&dagger;</sup>, <strong>Fang, Z.</strong><sup>&dagger;</sup>, Jiang, X.*, Huang, W.*, Li, R.*</div>
+    <div class="pub-venue"><em>Pattern Recognition</em> (SCI Q1, IF 7.6), 2026. <sup>&dagger;</sup>Co-first author.</div>
   </li>
   <li>
-    <span class="pub-title">Multi-Scale Feature Fusion Networks for Identifying Abnormal Brain Networks</span>
-    <span class="pub-authors"><strong>Fang, Z.</strong>, Chen, H.*, Huang, W.*, Li, R.*</span>
-    <span class="pub-venue">Under review at <em>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</em>.</span>
+    <div class="pub-title">Multi-Scale Feature Fusion Networks for Identifying Abnormal Brain Networks</div>
+    <div class="pub-authors"><strong>Fang, Z.</strong>, Chen, H.*, Huang, W.*, Li, R.*</div>
+    <div class="pub-venue">Under review at <em>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</em>.</div>
   </li>
   <li>
-    <span class="pub-title">Ablation Surgery Modulates a Common Functional Network in Focal Epilepsy: Disconnection, Recovery and Reorganization</span>
-    <span class="pub-authors">Han, H.<sup>&dagger;</sup>, Liu, Q.<sup>&dagger;</sup>, Sun, X., <strong>Fang, Z.</strong>, Li, R.*</span>
-    <span class="pub-venue">First revision at <em>Neurology</em>.</span>
+    <div class="pub-title">Ablation Surgery Modulates a Common Functional Network in Focal Epilepsy: Disconnection, Recovery and Reorganization</div>
+    <div class="pub-authors">Han, H.<sup>&dagger;</sup>, Liu, Q.<sup>&dagger;</sup>, Sun, X., <strong>Fang, Z.</strong>, Li, R.*</div>
+    <div class="pub-venue">First revision at <em>Neurology</em>.</div>
   </li>
   <li>
-    <span class="pub-title">K-MIND: A Knowledge-guided Multi-modal Interaction Network for Brain Disorders</span>
-    <span class="pub-authors"><strong>Fang, Z.</strong>, Chen, H.*, Li, R.*</span>
-    <span class="pub-venue">Manuscript in preparation.</span>
+    <div class="pub-title">K-MIND: A Knowledge-guided Multi-modal Interaction Network for Brain Disorders</div>
+    <div class="pub-authors"><strong>Fang, Z.</strong>, Chen, H.*, Li, R.*</div>
+    <div class="pub-venue">Manuscript in preparation.</div>
   </li>
 </ol>
 
@@ -73,7 +73,7 @@ My research interests lie at the intersection of <strong>graph neural networks</
   <span class="exp-date">2024 &ndash; 2027 (Expected)</span>
   <ul>
     <li>Supervisor: Prof. Rong Li, Prof. Huafu Chen</li>
-    <li>GPA: 3.43/4.0 &middot; Top 5% &middot; Tianfu AI Honors Program</li>
+    <li>GPA: 3.43/4.0 &middot; Top 10% &middot; Outstanding Postgraduate Student</li>
   </ul>
 </div>
 
@@ -82,7 +82,7 @@ My research interests lie at the intersection of <strong>graph neural networks</
   <span class="exp-badge edu">CUIT</span>
   <span class="exp-date">2020 &ndash; 2024</span>
   <ul>
-    <li>GPA: 3.51/4.0 &middot; Top 1%</li>
+    <li>GPA: 3.51/4.0 &middot; Top 5%</li>
     <li>Outstanding Graduate of Sichuan Province</li>
   </ul>
 </div>
@@ -90,7 +90,7 @@ My research interests lie at the intersection of <strong>graph neural networks</
 ### 💼 Work &amp; Internship
 
 <div class="exp-item">
-  <strong>AI Application Development Engineer Intern</strong>
+  <strong>AI Agent Application Development Engineer Intern</strong>
   <span class="exp-badge work">Lenovo</span>
   <span class="exp-date">Jun &ndash; Sep 2026</span>
   <ul>
@@ -205,9 +205,14 @@ My research interests lie at the intersection of <strong>graph neural networks</
 <ul class="activity-list">
   <li><strong>2026 Chinese Intelligent Health &amp; Bioinformatics Conference</strong><br>Oral presentation of MSD-Net (Apr 2026)</li>
   <li><strong>2025 International Symposium on Image Computing and Digital Medicine (ISICDM)</strong><br>Poster presentation of MSD-Net (Dec 2025)</li>
-  <li><strong>Eighth National College Students 5-Minute Research English Speech Contest</strong><br>National First Prize (2025)</li>
-  <li><strong>UESTC Eighth Research English Speech Contest</strong><br>Graduate Division First Prize (2025)</li>
+  <li><strong>Eighth National College Students 5-Minute Research English Speech Contest</strong><br>National First Prize (Oct 2025)</li>
+  <li><strong>UESTC Eighth Research English Speech Contest</strong><br>Graduate Division First Prize (Oct 2025)</li>
   <li><strong>&ldquo;建行杯&rdquo; Sichuan International College Students&rsquo; Innovation Competition (2024)</strong><br>Provincial Second Prize (2025)</li>
+  <li><strong>First-Class Academic Scholarship</strong><br>UESTC, Top 10% (2025)</li>
+  <li><strong>Suzhou Industrial Park Special Scholarship</strong><br>UESTC (2025)</li>
+  <li><strong>Outstanding Postgraduate Student</strong><br>UESTC (Nov 2024)</li>
+  <li><strong>First-Class Academic Scholarship</strong><br>UESTC, Top 10% (Oct 2024)</li>
+  <li><strong>Started M.Eng. in Biomedical Engineering</strong><br>UESTC, Tianfu AI Honors Program (Sep 2024)</li>
 </ul>
 
 ---
@@ -223,8 +228,7 @@ My research interests lie at the intersection of <strong>graph neural networks</
 
 ### 🎖️ Graduate Honors
 
-- <strong>Outstanding Postgraduate Student</strong> (优秀研究生) &mdash; 2026
-- <strong>Outstanding CPC Member</strong> (优秀党员) &mdash; 2026
+- <strong>Outstanding Postgraduate Student</strong> (优秀研究生) &mdash; 2024, 2025, 2026
 - <strong>Academic Rising Star</strong> (学术青苗) &mdash; 2026
 
 ### 🎖️ Undergraduate Honors
