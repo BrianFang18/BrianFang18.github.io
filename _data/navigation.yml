@@ -7,11 +7,8 @@ main:
   - title: "Experience"
     url: /#experience
 
+  - title: "Publications"
+    url: /#publications
+
   - title: "Honors"
     url: /#honors
-
-  - title: "Publications"
-    url: /publications/
-
-  - title: "CV"
-    url: /cv/

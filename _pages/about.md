@@ -13,6 +13,8 @@ My research interests lie at the intersection of **graph neural networks**, **br
 
 I am currently completing an AI engineering internship at **Lenovo** (Solutions & Services Group), where I develop LLM-based intent recognition models for automated anomaly detection in global channel sales data.
 
+<a href="/files/FANG_Zhi_CV.pdf" class="btn btn--primary" target="_blank" style="text-decoration:none;">📄 Download CV (PDF)</a>
+
 ---
 
 ## News
@@ -37,6 +39,27 @@ I am currently completing an AI engineering internship at **Lenovo** (Solutions 
 - **Oct 2025** — First Prize, Research English Speech Contest for Chinese College Students (National)
 
 </details>
+
+---
+
+## Publications
+{: #publications}
+
+1. **Liu, H.<sup>†</sup>, Zhang, J.<sup>†</sup>, Fang, Z.<sup>†</sup>**, Jiang, X.\*, Huang, W.\*, Li, R.\*<br>
+   *Multi-hop spatio-temporal graph convolutional networks for brain disorder diagnosis and prognosis.*<br>
+   Accepted by **Pattern Recognition** (SCI Q1, IF 7.6). <sup>†</sup>Co-first author.
+
+2. **Fang, Z.**, Chen, H.\*, Huang, W.\*, Li, R.\*<br>
+   *Multi-Scale Feature Fusion Networks for Identifying Abnormal Brain Networks.*<br>
+   Under review by **IEEE TNNLS**.
+
+3. Han, H.<sup>†</sup>, Liu, Q.<sup>†</sup>, Sun, X., **Fang, Z.**, Li, R.\*<br>
+   *Ablation Surgery Modulates a Common Functional Network in Focal Epilepsy: Disconnection, Recovery and Reorganization.*<br>
+   First revision at **Neurology**.
+
+4. **Fang, Z.**, Chen, H.\*, Li, R.\*<br>
+   *K-MIND: A Knowledge-guided Multi-modal Interaction Network for Brain Disorders.*<br>
+   Manuscript in preparation.
 
 ---
 
