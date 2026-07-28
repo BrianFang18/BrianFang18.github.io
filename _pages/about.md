@@ -82,7 +82,8 @@ My research interests lie at the intersection of <strong>graph neural networks</
   <span class="exp-badge edu">CUIT</span>
   <span class="exp-date">2020 &ndash; 2024</span>
   <ul>
-    <li>GPA: 3.51/4.0 &middot; Top 1% &middot; Outstanding Graduate of Sichuan Province</li>
+    <li>GPA: 3.51/4.0 &middot; Top 1%</li>
+    <li>Outstanding Graduate of Sichuan Province</li>
   </ul>
 </div>
 
@@ -125,7 +126,8 @@ My research interests lie at the intersection of <strong>graph neural networks</
   <span class="exp-badge project">Co-first Author</span>
   <span class="exp-date">Dec 2024 &ndash; Apr 2026</span>
   <ul>
-    <li>Funded by Chinese Brain Project (Grant No. 2022ZD0208903). Accepted at <em>Pattern Recognition</em>.</li>
+    <li>Funded by Chinese Brain Project (Grant No. 2022ZD0208903).</li>
+    <li>Accepted at <em>Pattern Recognition</em>.</li>
   </ul>
 </div>
 
@@ -188,13 +190,11 @@ My research interests lie at the intersection of <strong>graph neural networks</
 ### 🏛️ Student Leadership
 
 <div class="exp-item">
-  <strong>Class Monitor &amp; Youth League Branch Secretary</strong>, UESTC &mdash; <em>2024 &ndash; Present</em>
-</div>
-<div class="exp-item">
-  <strong>Organization Department Head</strong>, College Party Affairs Center, UESTC &mdash; <em>2024 &ndash; Present</em>
-</div>
-<div class="exp-item">
-  <strong>Class Monitor</strong>, CUIT &mdash; <em>2020 &ndash; 2024</em> &mdash; Led class to win top honors; awarded &ldquo;Youth Role Model&rdquo; (University&rsquo;s highest student honor) and &ldquo;Top 10 Class Monitors&rdquo;
+  <ul>
+    <li><strong>Class Monitor &amp; Youth League Branch Secretary</strong>, UESTC &mdash; <em>2024 &ndash; Present</em></li>
+    <li><strong>Organization Department Head</strong>, College Party Affairs Center, UESTC &mdash; <em>2024 &ndash; Present</em></li>
+    <li><strong>Class Monitor</strong>, CUIT &mdash; <em>2020 &ndash; 2024</em> &mdash; Led class to win top honors; awarded &ldquo;Youth Role Model&rdquo; (University&rsquo;s highest student honor) and &ldquo;Top 10 Class Monitors&rdquo;</li>
+  </ul>
 </div>
 
 ---
@@ -202,11 +202,13 @@ My research interests lie at the intersection of <strong>graph neural networks</
 ## Recent Activity
 {: #activity}
 
-- <strong>2026 Chinese Intelligent Health &amp; Bioinformatics Conference</strong> &mdash; Oral presentation of MSD-Net (Apr 2026)
-- <strong>2025 International Symposium on Image Computing and Digital Medicine (ISICDM)</strong> &mdash; Poster presentation of MSD-Net (Dec 2025)
-- <strong>Eighth National College Students 5-Minute Research English Speech Contest</strong> &mdash; National First Prize (2025)
-- <strong>UESTC Eighth Research English Speech Contest</strong> &mdash; Graduate Division First Prize (2025)
-- <strong>&ldquo;建行杯&rdquo; Sichuan International College Students&rsquo; Innovation Competition (2024)</strong> &mdash; Provincial Second Prize (2025)
+<ul class="activity-list">
+  <li><strong>2026 Chinese Intelligent Health &amp; Bioinformatics Conference</strong><br>Oral presentation of MSD-Net (Apr 2026)</li>
+  <li><strong>2025 International Symposium on Image Computing and Digital Medicine (ISICDM)</strong><br>Poster presentation of MSD-Net (Dec 2025)</li>
+  <li><strong>Eighth National College Students 5-Minute Research English Speech Contest</strong><br>National First Prize (2025)</li>
+  <li><strong>UESTC Eighth Research English Speech Contest</strong><br>Graduate Division First Prize (2025)</li>
+  <li><strong>&ldquo;建行杯&rdquo; Sichuan International College Students&rsquo; Innovation Competition (2024)</strong><br>Provincial Second Prize (2025)</li>
+</ul>
 
 ---
 
@@ -236,18 +238,20 @@ My research interests lie at the intersection of <strong>graph neural networks</
 
 ### 🏆 Competitions
 
-- <strong>National First Prize</strong> &mdash; 5-Minute Research English Speech Contest (全国大学生科研英语演讲), 2025
-- <strong>School First Prize</strong> &mdash; UESTC Research English Speech Contest (研究生组), 2025
-- <strong>Provincial Second Prize</strong> &mdash; Sichuan International College Students&rsquo; Innovation Competition (四川省国际大学生创新大赛), 2025
-- <strong>National Third Prize</strong> &mdash; China University Computer Competition &mdash; AI Innovation Contest (C4AI 智慧医疗赛道), 2022
-- <strong>National Third Prize</strong> &mdash; 5G + CTWing IoT Developer Competition (全国5G+天翼物联开发者大赛), 2022
-- <strong>Provincial First Prize</strong> &mdash; National College Students Mathematical Modeling Competition (全国大学生数学建模竞赛), 2022
-- <strong>Provincial Second Prize</strong> &mdash; Sichuan College Students Communications Network Construction Competition (四川省大学生通信全网建设技术竞赛), 2022
-- <strong>Second Prize</strong> &mdash; Asia and Pacific Mathematical Contest in Modeling (亚太地区数学建模), 2021 &amp; 2022
-- <strong>Second Prize</strong> &mdash; National English Competition for College Students (全国大学生英语能力竞赛), 2021 &amp; 2022
-- <strong>Second Prize</strong> &mdash; May Day Mathematical Modeling Competition (五一数学建模竞赛), 2021 &amp; 2022
-- <strong>School First Prize</strong> &mdash; 21st Century English Speech Contest (21世纪杯英语演讲比赛), 2022
-- <strong>School First Prize</strong> &mdash; FLTRP &middot; Guocai Cup English Speech Contest (外研社&middot;国才杯英语演讲比赛), 2022
+<ul class="award-list">
+  <li><strong>National First Prize</strong><br>5-Minute Research English Speech Contest (全国大学生科研英语演讲), 2025</li>
+  <li><strong>School First Prize</strong><br>UESTC Research English Speech Contest (研究生组), 2025</li>
+  <li><strong>Provincial Second Prize</strong><br>Sichuan International College Students&rsquo; Innovation Competition (四川省国际大学生创新大赛), 2025</li>
+  <li><strong>National Third Prize</strong><br>China University Computer Competition &mdash; AI Innovation Contest (C4AI 智慧医疗赛道), 2022</li>
+  <li><strong>National Third Prize</strong><br>5G + CTWing IoT Developer Competition (全国5G+天翼物联开发者大赛), 2022</li>
+  <li><strong>Provincial First Prize</strong><br>National College Students Mathematical Modeling Competition (全国大学生数学建模竞赛), 2022</li>
+  <li><strong>Provincial Second Prize</strong><br>Sichuan College Students Communications Network Construction Competition (四川省大学生通信全网建设技术竞赛), 2022</li>
+  <li><strong>Second Prize</strong><br>Asia and Pacific Mathematical Contest in Modeling (亚太地区数学建模), 2021 &amp; 2022</li>
+  <li><strong>Second Prize</strong><br>National English Competition for College Students (全国大学生英语能力竞赛), 2021 &amp; 2022</li>
+  <li><strong>Second Prize</strong><br>May Day Mathematical Modeling Competition (五一数学建模竞赛), 2021 &amp; 2022</li>
+  <li><strong>School First Prize</strong><br>21st Century English Speech Contest (21世纪杯英语演讲比赛), 2022</li>
+  <li><strong>School First Prize</strong><br>FLTRP &middot; Guocai Cup English Speech Contest (外研社&middot;国才杯英语演讲比赛), 2022</li>
+</ul>
 
 ---
 

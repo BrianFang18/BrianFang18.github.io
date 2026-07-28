@@ -425,6 +425,15 @@
     border-left-color: var(--global-base-color);
   }
 
+  > strong {
+    display: block;
+    font-family: $header-font-family;
+    font-size: $type-size-5;
+    font-weight: 600;
+    color: var(--global-text-color);
+    margin-bottom: 0.1em;
+  }
+
   p, li {
     margin-bottom: 0.25em;
     font-size: $type-size-5;
@@ -434,14 +443,6 @@
   ul {
     margin: 0.3em 0 0 0;
     padding-left: 1.2em;
-  }
-
-  /* Degree / role title */
-  strong:first-child {
-    font-family: $header-font-family;
-    font-size: $type-size-5;
-    font-weight: 600;
-    color: var(--global-text-color);
   }
 }
 
@@ -505,6 +506,7 @@
     }
 
     .pub-title {
+      display: block;
       font-family: $header-font-family;
       font-size: $type-size-5;
       font-weight: 600;
@@ -513,6 +515,7 @@
     }
 
     .pub-authors {
+      display: block;
       font-size: $type-size-5;
       color: var(--global-text-color-light);
       margin: 0.15em 0;
@@ -520,6 +523,7 @@
     }
 
     .pub-venue {
+      display: block;
       font-size: $type-size-5;
       font-style: italic;
       color: var(--global-text-color-light);
@@ -548,5 +552,38 @@
       color: var(--global-base-color);
       letter-spacing: 0.02em;
     }
+  }
+}
+
+/*
+   Activity & Award lists
+   ========================================================================== */
+
+.page__content ul.activity-list,
+.page__content ul.award-list {
+  list-style: none;
+  padding-left: 0;
+
+  li {
+    margin-bottom: 0.7em;
+    font-size: $type-size-5;
+    line-height: 1.5;
+
+    strong {
+      color: var(--global-text-color);
+      font-weight: 600;
+    }
+  }
+}
+
+.page__content ul.award-list li {
+  margin-bottom: 0.5em;
+  strong {
+    font-family: $monospace;
+    font-size: $type-size-7;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    color: var(--global-accent-warm);
+    text-transform: uppercase;
   }
 }
