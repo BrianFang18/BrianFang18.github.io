@@ -7,9 +7,9 @@ author_profile: true
 ## Biography
 {: #biography}
 
-I am a Master's student in Biomedical Engineering at the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) (UESTC), advised by Ph.D. Rong Li and Prof. Huafu Chen. Before that, I received my B.Eng. in Communications Engineering from [Chengdu University of Information Technology](https://www.cuit.edu.cn/) (CUIT) in 2024.
+I am a Master's student in Biomedical Engineering at the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) (UESTC), under the supervision of Dr. Rong Li and Prof. Huafu Chen. Before that, I received my B.Eng. in Communications Engineering from [Chengdu University of Information Technology](https://www.cuit.edu.cn/) (CUIT) in 2024.
 
-My research interests lie at the intersection of <strong>graph neural networks</strong>, <strong>brain imaging analysis</strong>, and <strong>LLM-based autonomous agents</strong>. I have published in <em>Pattern Recognition</em> and have papers under review at top-tier venues. I also have hands-on experience building LLM agent systems as an independent researcher (Mobile Agent with PPO reinforcement learning, Agentic RAG for clinical consultation) and through an AI engineering internship at <strong>Lenovo</strong> (LLM-based intent recognition).
+My research interests lie at the intersection of <strong>graph neural networks</strong>, <strong>brain imaging analysis</strong>, and <strong>LLM-based autonomous agents</strong>. I have a co-first-author paper accepted by <em>Pattern Recognition</em> and a first-author manuscript under review at <em>IEEE TNNLS</em>. I have also developed LLM agent systems for long-horizon decision-making and epilepsy-oriented clinical retrieval.
 
 <a href="/files/FANG_Zhi_CV.pdf" class="btn btn--primary" target="_blank" style="text-decoration:none; border-bottom:0;">Download CV (PDF)</a>
 
@@ -87,7 +87,7 @@ My research interests lie at the intersection of <strong>graph neural networks</
   <span class="exp-badge edu">UESTC</span>
   <span class="exp-date">2024 &ndash; 2027 (Expected)</span>
   <ul>
-    <li>Supervisor: Ph.D. Rong Li, Prof. Huafu Chen</li>
+    <li>Supervisor: Dr. Rong Li, Prof. Huafu Chen</li>
     <li>GPA: 3.43/4.0 &middot; Top 10% &middot; Outstanding Postgraduate Student</li>
   </ul>
 </div>
