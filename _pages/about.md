@@ -7,7 +7,7 @@ author_profile: true
 ## Biography
 {: #biography}
 
-I am a second-year Master's student in Biomedical Engineering at the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) (UESTC), advised by Prof. Rong Li and Prof. Huafu Chen. Before that, I received my B.Eng. in Communications Engineering from [Chengdu University of Information Technology](https://www.cuit.edu.cn/) (CUIT) in 2024.
+I am a Master's student in Biomedical Engineering at the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) (UESTC), advised by Ph.D. Rong Li and Prof. Huafu Chen. Before that, I received my B.Eng. in Communications Engineering from [Chengdu University of Information Technology](https://www.cuit.edu.cn/) (CUIT) in 2024.
 
 My research interests lie at the intersection of <strong>graph neural networks</strong>, <strong>brain imaging analysis</strong>, and <strong>LLM-based autonomous agents</strong>. I have published in <em>Pattern Recognition</em> and have papers under review at top-tier venues. I also have hands-on experience building LLM agent systems as an independent researcher (Mobile Agent with PPO reinforcement learning, Agentic RAG for clinical consultation) and through an AI engineering internship at <strong>Lenovo</strong> (LLM-based intent recognition).
 
@@ -27,33 +27,6 @@ My research interests lie at the intersection of <strong>graph neural networks</
   <li><strong>[10/2025]</strong> Presented MSD-Net at ISICDM 2025.</li>
   <li><strong>[10/2025]</strong> Started Mobile Agent project &mdash; LLM-based autonomous decision-making with PPO reinforcement learning.</li>
   <li><strong>[08/2025]</strong> First Prize, National Research English Speech Contest; First Prize, UESTC Division.</li>
-</ul>
-
----
-
-## Skills
-{: #skills}
-
-### Professional Skills
-
-<ul>
-  <li><strong>Deep Learning &amp; AI:</strong> Proficient in Transformer, GNN-based models, and reinforcement learning algorithms (PPO, GRPO, DPO). Strong experimental design and engineering implementation skills with PyTorch.</li>
-  <li><strong>LLM Engineering:</strong> Experienced in AI Agent and LLM application development using LangChain and LangGraph. Skilled in Prompt Engineering, Fine-tuning, and RAG pipeline construction.</li>
-  <li><strong>Distributed Training:</strong> Familiar with large-model distributed training and inference frameworks (Megatron-LM, vLLM), including 3D parallelism, ZeRO optimization, Flash-Attention, KV-Cache, and quantization techniques.</li>
-  <li><strong>Programming:</strong> Python (primary), C/C++, MATLAB. Version control with Git. CAD drafting.</li>
-  <li><strong>Medical Imaging:</strong> Experienced with 3.0T MRI and 64-channel EEG data acquisition, preprocessing (motion correction, denoising), and functional connectivity analysis.</li>
-</ul>
-
-### English Proficiency
-
-<ul>
-  <li><strong>CET-4:</strong> 639 &emsp; <strong>CET-6:</strong> 571 &emsp; <strong>IELTS:</strong> 6.5</li>
-  <li><strong>National First Prize</strong> &mdash; 8th National College Students 5-Minute Research English Speech Contest (2025)</li>
-  <li><strong>School First Prize</strong> &mdash; UESTC Research English Speech Contest, Graduate Division (2025)</li>
-  <li><strong>School First Prize</strong> &mdash; 21st Century English Speech Contest (2022)</li>
-  <li><strong>School First Prize</strong> &mdash; FLTRP &middot; Guocai Cup English Speech Contest (2022)</li>
-  <li><strong>Second Prize</strong> &mdash; National English Competition for College Students (2021, 2022)</li>
-  <li>Strong spoken English with near-native fluency; authored and published multiple SCI journal papers in English; regular oral presentations at international academic conferences.</li>
 </ul>
 
 ---
@@ -114,7 +87,7 @@ My research interests lie at the intersection of <strong>graph neural networks</
   <span class="exp-badge edu">UESTC</span>
   <span class="exp-date">2024 &ndash; 2027 (Expected)</span>
   <ul>
-    <li>Supervisor: Prof. Rong Li, Prof. Huafu Chen</li>
+    <li>Supervisor: Ph.D. Rong Li, Prof. Huafu Chen</li>
     <li>GPA: 3.43/4.0 &middot; Top 10% &middot; Outstanding Postgraduate Student</li>
   </ul>
 </div>
@@ -155,7 +128,7 @@ My research interests lie at the intersection of <strong>graph neural networks</
   <details class="exp-detail">
     <summary>Details</summary>
     <ul>
-      <li>Coordinated 3.0T MRI and 64-channel EEG synchronous acquisition for task-driven multimodal datasets at the Clinical Hospital of Chengdu Brain Science Institute</li>
+      <li>Coordinated 3.0T MRI synchronous acquisition for task-driven multimodal datasets at the Clinical Hospital of Chengdu Brain Science Institute</li>
       <li>Performed motion correction, denoising, and functional connectivity preprocessing on rs-fMRI data</li>
       <li>Contributed to the construction of a multimodal neuroimaging dataset for epilepsy research</li>
     </ul>
@@ -307,9 +280,36 @@ My research interests lie at the intersection of <strong>graph neural networks</
   <li><strong>2022 &ldquo;高教社杯&rdquo; National College Students Mathematical Modeling Competition</strong><br>Sichuan Province First Prize; paper published in <em>Tianfu Mathematics Journal</em> (2023), co-first author</li>
   <li><strong>First-Class Academic Scholarship</strong><br>UESTC, Top 10% (2025)</li>
   <li><strong>Suzhou Industrial Park Special Scholarship</strong><br>UESTC (2025)</li>
-  <li><strong>Outstanding Postgraduate Student</strong><br>UESTC (Nov 2024)</li>
+  <li><strong>Outstanding Postgraduate Student</strong><br>UESTC (2025)</li>
   <li><strong>First-Class Academic Scholarship</strong><br>UESTC, Top 10% (Oct 2024)</li>
   <li><strong>Started M.Eng. in Biomedical Engineering</strong><br>UESTC (Sep 2024)</li>
+</ul>
+
+---
+
+## Skills
+{: #skills}
+
+### Professional Skills
+
+<ul>
+  <li><strong>Deep Learning &amp; AI:</strong> Proficient in Transformer, GNN-based models, and reinforcement learning algorithms (PPO, GRPO, DPO). Strong experimental design and engineering implementation skills with PyTorch.</li>
+  <li><strong>LLM Engineering:</strong> Experienced in AI Agent and LLM application development using LangChain and LangGraph. Skilled in Prompt Engineering, Fine-tuning, and RAG pipeline construction.</li>
+  <li><strong>Distributed Training:</strong> Familiar with large-model distributed training and inference frameworks (Megatron-LM, vLLM), including 3D parallelism, ZeRO optimization, Flash-Attention, KV-Cache, and quantization techniques.</li>
+  <li><strong>Programming:</strong> Python (primary), SQL, MATLAB. Version control with Git.</li>
+  <li><strong>Medical Imaging:</strong> Experienced with 3.0T MRI data acquisition, preprocessing (motion correction, denoising), and functional connectivity analysis.</li>
+</ul>
+
+### English Proficiency
+
+<ul>
+  <li><strong>CET-4:</strong> 639 &emsp; <strong>CET-6:</strong> 571 &emsp; <strong>IELTS:</strong> 6.5</li>
+  <li><strong>National First Prize</strong> &mdash; 8th National College Students 5-Minute Research English Speech Contest (2025)</li>
+  <li><strong>School First Prize</strong> &mdash; UESTC Research English Speech Contest, Graduate Division (2025)</li>
+  <li><strong>School First Prize</strong> &mdash; 21st Century English Speech Contest (2022)</li>
+  <li><strong>School First Prize</strong> &mdash; FLTRP &middot; Guocai Cup English Speech Contest (2022)</li>
+  <li><strong>Second Prize</strong> &mdash; National English Competition for College Students (2021, 2022)</li>
+  <li>Strong spoken English with near-native fluency; authored and published multiple SCI journal papers in English; regular oral presentations at international academic conferences.</li>
 </ul>
 
 ---
@@ -325,7 +325,7 @@ My research interests lie at the intersection of <strong>graph neural networks</
 
 ### 🎖️ Graduate Honors
 
-- <strong>Outstanding Postgraduate Student</strong> (优秀研究生) &mdash; 2024, 2025, 2026
+- <strong>Outstanding Postgraduate Student</strong> (优秀研究生) &mdash; 2025
 - <strong>Academic Rising Star</strong> (学术青苗) &mdash; 2026
 
 ### 🎖️ Undergraduate Honors
