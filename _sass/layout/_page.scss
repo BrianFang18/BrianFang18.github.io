@@ -601,3 +601,70 @@
     }
   }
 }
+
+/*
+   Collapsible details (publications & experience)
+   ========================================================================== */
+
+details.pub-detail,
+details.exp-detail {
+  margin-top: 0.4em;
+
+  summary {
+    display: inline-block;
+    font-size: $type-size-7;
+    font-weight: 500;
+    color: var(--global-base-color);
+    cursor: pointer;
+    padding: 0.15em 0.5em;
+    border-radius: 3px;
+    background: rgba(30,90,138,0.06);
+    transition: background 0.15s ease;
+    user-select: none;
+
+    &:hover {
+      background: rgba(30,90,138,0.12);
+    }
+  }
+}
+
+details.exp-detail {
+  margin-top: 0.3em;
+
+  summary {
+    background: rgba(90,140,120,0.07);
+    color: #4A7C6B;
+
+    html[data-theme="dark"] & {
+      background: rgba(100,180,150,0.1);
+      color: #7BC4A8;
+    }
+
+    &:hover {
+      background: rgba(90,140,120,0.14);
+    }
+  }
+
+  ul {
+    margin-top: 0.4em;
+  }
+}
+
+.pub-abstract {
+  margin-top: 0.5em;
+  padding: 0.6em 0.8em;
+  background: var(--global-code-background-color);
+  border-radius: 4px;
+  border-left: 3px solid var(--global-border-color);
+  font-size: $type-size-6;
+  line-height: 1.6;
+
+  p {
+    margin-bottom: 0.5em;
+    font-size: $type-size-6;
+  }
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
