@@ -34,7 +34,7 @@ author_profile: false
 </div>
 
 <!-- ====== TEAM & FRIENDS ====== -->
-<h3 class="gallery-category">🤝 Team &amp; Friends</h3>
+<h3 class="gallery-category">🤝 Teams &amp; Friends</h3>
 
 <div class="gallery-grid">
   <div class="gallery-item">

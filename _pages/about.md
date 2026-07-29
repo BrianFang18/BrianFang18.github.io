@@ -322,12 +322,12 @@ My research interests lie at the intersection of <strong>graph neural networks</
 - <strong>Suzhou Industrial Park Special Scholarship</strong> &mdash; UESTC, 2025
 - <strong>First-Class Academic Scholarship (&times;3)</strong> &mdash; CUIT, 2021, 2022 &amp; 2023
 
-### 🎖️ Graduate Honors
+### 🎓 Graduate Honors
 
 - <strong>Outstanding Postgraduate Student</strong> (优秀研究生) &mdash; 2025
 - <strong>Academic Rising Star</strong> (学术青苗) &mdash; 2026
 
-### 🎖️ Undergraduate Honors
+### 🌟 Undergraduate Honors
 
 - <strong>Outstanding Graduate, Sichuan Province</strong> (四川省优秀毕业生) &mdash; 2024
 - <strong>Outstanding Graduate, CUIT</strong> (校优秀毕业生) &mdash; 2024
