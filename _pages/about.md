@@ -276,12 +276,11 @@ My research interests lie at the intersection of <strong>graph neural networks</
   <li><strong>2025 International Symposium on Image Computing and Digital Medicine (ISICDM)</strong><br>Poster presentation of MSD-Net (Dec 2025)</li>
   <li><strong>Eighth National College Students 5-Minute Research English Speech Contest</strong><br>National First Prize (Aug 2025)</li>
   <li><strong>UESTC Eighth Research English Speech Contest</strong><br>Graduate Division First Prize (2025)</li>
-  <li><strong>&ldquo;建行杯&rdquo; Sichuan International College Students&rsquo; Innovation Competition (2024)</strong><br>Provincial Second Prize (2025)</li>
-  <li><strong>2022 &ldquo;高教社杯&rdquo; National College Students Mathematical Modeling Competition</strong><br>Sichuan Province First Prize; paper published in <em>Tianfu Mathematics Journal</em> (2023), co-first author</li>
   <li><strong>First-Class Academic Scholarship</strong><br>UESTC, Top 10% (2025)</li>
   <li><strong>Suzhou Industrial Park Special Scholarship</strong><br>UESTC (2025)</li>
   <li><strong>Outstanding Postgraduate Student</strong><br>UESTC (2025)</li>
   <li><strong>First-Class Academic Scholarship</strong><br>UESTC, Top 10% (Oct 2024)</li>
+  <li><strong>&ldquo;建行杯&rdquo; Sichuan International College Students&rsquo; Innovation Competition (2024)</strong><br>Provincial Second Prize (2025)</li>
   <li><strong>Started M.Eng. in Biomedical Engineering</strong><br>UESTC (Sep 2024)</li>
 </ul>
 
