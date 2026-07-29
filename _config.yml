@@ -26,7 +26,8 @@ author:
   bio              : "M.Eng. in Biomedical Engineering<br>UESTC, Chengdu<br><small>Brain Graph Neural Networks<br>LLM Agents &middot; Medical AI</small>"
   location         : "Chengdu, China"
   employer         : "UESTC"
-  uri              : https://zhifang.github.io
+  employer_url     : "https://en.uestc.edu.cn/"
+  uri              : https://brianfang18.github.io
   email            : "brianfang0118@gmail.com"
 
   # Academic websites
