@@ -97,7 +97,7 @@ My research interests lie at the intersection of <strong>graph neural networks</
   <span class="exp-badge edu">CUIT</span>
   <span class="exp-date">2020 &ndash; 2024</span>
   <ul>
-    <li>GPA: 3.51/4.0 &middot; Top 5%</li>
+    <li>GPA: 3.51/4.0 &middot; Top 8%</li>
     <li>Outstanding Graduate of Sichuan Province</li>
   </ul>
 </div>
