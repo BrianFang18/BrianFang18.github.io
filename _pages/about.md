@@ -53,7 +53,7 @@ My research interests lie at the intersection of <strong>graph neural networks</
   <li>
     <div class="pub-title">Multi-Scale Feature Fusion Networks for Identifying Abnormal Brain Networks</div>
     <div class="pub-authors"><strong>Fang, Z.</strong>, Chen, H.*, Huang, W.*, Li, R.*</div>
-    <div class="pub-venue">Under review at <em>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</em> (IF 9.8).</div>
+    <div class="pub-venue">Under review at <em>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</em> (SCI Q1, IF 9.8).</div>
     <details class="pub-detail">
       <summary>Abstract &amp; Contributions</summary>
       <div class="pub-abstract">
@@ -66,7 +66,7 @@ My research interests lie at the intersection of <strong>graph neural networks</
   <li>
     <div class="pub-title">Ablation Surgery Modulates a Common Functional Network in Focal Epilepsy: Disconnection, Recovery and Reorganization</div>
     <div class="pub-authors">Han, H.<sup>&dagger;</sup>, Liu, Q.<sup>&dagger;</sup>, Sun, X., <strong>Fang, Z.</strong>, Li, R.*</div>
-    <div class="pub-venue">First revision at <em>Neurology</em>.</div>
+    <div class="pub-venue">First revision at <em>Neurology</em> (SCI Q1, IF 10.1).</div>
   </li>
   <li>
     <div class="pub-title">K-MIND: A Knowledge-guided Multi-modal Interaction Network for Brain Disorders</div>
@@ -280,7 +280,7 @@ My research interests lie at the intersection of <strong>graph neural networks</
   <li><strong>Suzhou Industrial Park Special Scholarship</strong><br>UESTC (2025)</li>
   <li><strong>Outstanding Postgraduate Student</strong><br>UESTC (2025)</li>
   <li><strong>First-Class Academic Scholarship</strong><br>UESTC, Top 10% (Oct 2024)</li>
-  <li><strong>&ldquo;建行杯&rdquo; Sichuan International College Students&rsquo; Innovation Competition (2024)</strong><br>Provincial Second Prize (2025)</li>
+  <li><strong>&ldquo;建行杯&rdquo; Sichuan International College Students&rsquo; Innovation Competition (2024)</strong><br>Provincial Second Prize (2024)</li>
   <li><strong>Started M.Eng. in Biomedical Engineering</strong><br>UESTC (Sep 2024)</li>
 </ul>
 
@@ -324,7 +324,7 @@ My research interests lie at the intersection of <strong>graph neural networks</
 
 ### 🎓 Graduate Honors
 
-- <strong>Outstanding Postgraduate Student</strong> (优秀研究生) &mdash; 2025
+- <strong>Outstanding Postgraduate Student</strong> (优秀研究生) &mdash; 2026
 - <strong>Academic Rising Star</strong> (学术青苗) &mdash; 2026
 
 ### 🌟 Undergraduate Honors
@@ -358,10 +358,10 @@ My research interests lie at the intersection of <strong>graph neural networks</
 ## Patents &amp; Software Copyright
 {: #patents}
 
-1. <em>A Method for Identifying Epileptic Abnormal Brain Networks Based on a Multiscale Static-Dynamic Fusion Network</em>, CN 2025115041286, China Patent (filed), 2025.
+1. <em>Epilepsy Brain Imaging Consortium Multicenter Data Sharing Platform (EBIC)</em>, Version 1.0, 2026SR0397180, Chinese Software Copyright (filed), 2026.
 
-2. <em>Bridge and Tunnel Concrete Surface Crack Detection Device</em>, CN 202321664704.X, China Utility Model Patent (granted), 2024.
+2. <em>A Method for Identifying Epileptic Abnormal Brain Networks Based on a Multiscale Static-Dynamic Fusion Network</em>, CN 2025115041286, China Patent (filed), 2025.
 
 3. <em>Platform for Evaluating the Efficacy of Epilepsy Surgery Based on a Digital Brain Model</em>, Version 1.0, 2025SR0523331, Chinese Software Copyright (filed), 2025.
 
-4. <em>Epilepsy Brain Imaging Consortium Multicenter Data Sharing Platform (EBIC)</em>, Version 1.0, 2026SR0397180, Chinese Software Copyright (filed), 2026.
+4. <em>Bridge and Tunnel Concrete Surface Crack Detection Device</em>, CN 202321664704.X, China Utility Model Patent (granted), 2024.
