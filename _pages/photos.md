@@ -83,10 +83,10 @@ author_profile: false
     <img src="{{ base_path }}/images/gallery/life/life_04.jpg" loading="lazy" alt="Personal moment" onclick="openLightbox(this.src)">
   </div>
   <div class="gallery-item">
-    <img src="{{ base_path }}/images/gallery/life/life_05.jpeg" loading="lazy" alt="Personal moment" onclick="openLightbox(this.src)">
+    <img src="{{ base_path }}/images/gallery/life/life_05.jpg" loading="lazy" alt="Personal moment" onclick="openLightbox(this.src)">
   </div>
   <div class="gallery-item">
-    <img src="{{ base_path }}/images/gallery/life/life_06.jpg" loading="lazy" alt="Personal moment" onclick="openLightbox(this.src)">
+    <img src="{{ base_path }}/images/gallery/life/life_06.jpeg" loading="lazy" alt="Personal moment" onclick="openLightbox(this.src)">
   </div>
   <div class="gallery-item">
     <img src="{{ base_path }}/images/gallery/life/life_07.jpg" loading="lazy" alt="Personal moment" onclick="openLightbox(this.src)">
