@@ -47,13 +47,13 @@ My research interests lie at the intersection of <strong>graph neural networks</
 ### English Proficiency
 
 <ul>
-  <li><strong>CET-6</strong> (College English Test Band 6)</li>
+  <li><strong>CET-4:</strong> 639 &emsp; <strong>CET-6:</strong> 571 &emsp; <strong>IELTS:</strong> 6.5</li>
   <li><strong>National First Prize</strong> &mdash; 8th National College Students 5-Minute Research English Speech Contest (2025)</li>
   <li><strong>School First Prize</strong> &mdash; UESTC Research English Speech Contest, Graduate Division (2025)</li>
   <li><strong>School First Prize</strong> &mdash; 21st Century English Speech Contest (2022)</li>
   <li><strong>School First Prize</strong> &mdash; FLTRP &middot; Guocai Cup English Speech Contest (2022)</li>
   <li><strong>Second Prize</strong> &mdash; National English Competition for College Students (2021, 2022)</li>
-  <li>Authored and published SCI journal papers in English; regular oral presentations at international academic conferences.</li>
+  <li>Strong spoken English with near-native fluency; authored and published multiple SCI journal papers in English; regular oral presentations at international academic conferences.</li>
 </ul>
 
 ---
@@ -361,7 +361,7 @@ My research interests lie at the intersection of <strong>graph neural networks</
 
 1. <em>A Method for Identifying Epileptic Abnormal Brain Networks Based on a Multiscale Static-Dynamic Fusion Network</em>, CN 2025115041286, China Patent (filed), 2025.
 
-2. <em>Bridge and Tunnel Concrete Surface Crack Detection Device</em>, CN 202321664704.X / CN220650659U, China Utility Model Patent (granted), 2024. Inventors: Huang P., Liu L., Wang Y., <strong>Fang, Z.</strong>, Zhong J. Applicant: Chengdu University of Information Technology.
+2. <em>Bridge and Tunnel Concrete Surface Crack Detection Device</em>, CN 202321664704.X, China Utility Model Patent (granted), 2024.
 
 3. <em>Platform for Evaluating the Efficacy of Epilepsy Surgery Based on a Digital Brain Model</em>, Version 1.0, 2025SR0523331, Chinese Software Copyright (filed), 2025.
 
